@@ -1,4 +1,4 @@
-name: Deploy AgatCeramic
+name: Deploy AgatCeramicAdmin
 
 on:
   push:
